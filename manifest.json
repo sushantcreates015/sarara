@@ -1,0 +1,26 @@
+{
+  "name": "Get Coins - TikTok",
+  "short_name": "Get Coins",
+  "description": "Recharge TikTok coins fast and securely",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#fe2c55",
+  "icons": [
+    {
+      "src": "tiktok-logo-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "tiktok-logo-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "utilities"],
+  "lang": "en"
+}
